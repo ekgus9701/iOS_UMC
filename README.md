@@ -1,2 +1,2 @@
 # iOS_UMC
-Doing UMC's iOS Workbook
+UMC iOS Workbook을 진행하면서
